@@ -7,7 +7,7 @@
 import type { Question } from "../types";
 
 // ─── Configuration ─────────────────────────────────────────────────────────────
-const MISTRAL_API_KEY = "UQ6hig2dIsoSGdXoJSz1bVHir040ZzIx";
+const MISTRAL_API_KEY ="your-api-key";
 const MISTRAL_MODEL = "mistral-small-latest";
 const MISTRAL_API_URL = "https://api.mistral.ai/v1/chat/completions";
 
